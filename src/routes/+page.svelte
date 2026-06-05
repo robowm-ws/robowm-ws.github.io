@@ -230,6 +230,18 @@
 					link="https://frt03.github.io/"
 					image="https://frt03.github.io/images/profile_2022.jpeg"
 				></Person>
+				<Person
+					name="Jing-Wen Chen"
+					affiliation="Google DeepMind / University of Tokyo"
+					link="https://joycelyn-chen.github.io/"
+					image="https://joycelyn-chen.github.io/media/Joy_head_pretty.jpg"
+				></Person>
+				<Person
+					name="Yifu Qiu"
+					affiliation="University of Edinburgh / University of Cambridge"
+					link="https://yfqiu.netlify.app/"
+					image="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=OA6GaMwAAAAJ&citpid=1"
+				></Person>
 			</div>
 		</div>
 	</Block>
