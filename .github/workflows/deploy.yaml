@@ -23,6 +23,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build # SvelteKit static adapter の出力先
+          folder: build
           branch: gh-pages
   
