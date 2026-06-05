@@ -159,7 +159,7 @@
 					name="Roberto Calandra"
 					affiliation="TU Dresden"
 					link="https://lasr.org/people/roberto-calandra"
-					image="https://lasr.org/people/roberto-calandra"
+					image="https://lasr.org/api/images/file/roberto_calandra.png"
 				></Person>
 				<Person
 					name="Tsung-Yi Lin"
@@ -191,7 +191,7 @@
 	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="organizers">Organizers</h1>
 	</Block>
-	<Block size="max-w-4xl">
+	<Block>
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 				<Person
@@ -230,7 +230,6 @@
 					link="https://frt03.github.io/"
 					image="https://frt03.github.io/images/profile_2022.jpeg"
 				></Person>
-				
 			</div>
 		</div>
 	</Block>
@@ -240,10 +239,10 @@
 			<Call />
 		</div>
 	</Block>
-	<Block>
+	<!-- <Block>
 		<h1 class="mb-4 text-2xl font-bold" id="papers">Accepted Papers</h1>
 		<PaperList />
-	</Block>
+	</Block> -->
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">
 		<div class="mx-8 w-full max-w-3xl">
