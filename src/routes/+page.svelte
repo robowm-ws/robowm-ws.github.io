@@ -7,7 +7,7 @@
 	import NavLink from '$lib/components/NavLink.svelte';
 	import Call from '../content/call.md';
 	import Intro from '../content/intro.md';
-	import PaperList from '$lib/components/PaperList.svelte';
+	// import PaperList from '$lib/components/PaperList.svelte';
 </script>
 
 <svelte:head>
