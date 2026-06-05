@@ -232,7 +232,7 @@
 				></Person>
 				<Person
 					name="Jing-Wen Chen"
-					affiliation="Google DeepMind / University of Tokyo"
+					affiliation="National Taiwan University"
 					link="https://joycelyn-chen.github.io/"
 					image="https://joycelyn-chen.github.io/media/Joy_head_pretty.jpg"
 				></Person>
