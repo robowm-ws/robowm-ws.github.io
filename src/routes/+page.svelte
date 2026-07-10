@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>World Models for Robot Learning Workshop at NeurIPS 2026</title>
+	<title>Robot Learning with World Models Workshop at NeurIPS 2026</title>
 </svelte:head>
 
 <div class="text-lg">
@@ -22,7 +22,7 @@
 					NeurIPS WORKSHOP
 				</div>
 			</div>
-			<div class="inline-block text-4xl">World Models for Robot Learning Workshop</div>
+			<div class="inline-block text-4xl">Robot Learning with World Models: Capabilities, Frontiers, and Challenges</div>
 			<div class="text-md mt-8 text-gray-800">December 11th or 12th, 2026</div>
 			<div class="text-sm text-gray-500">Sydney, Australia</div>
 		</div>
@@ -71,66 +71,54 @@
 				</thead>
 				<tbody>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:10</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:50 - 9:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Opening Remarks</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:10 - 9:40</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 1</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 10:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 1 & 2</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:40 - 10:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 2</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:00 - 10:15</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:10 - 10:50</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:15 - 11:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Oral Presentations</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:50 - 11:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00 - 12:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 3 & 4</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:10 - 11:40</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 3</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:40 - 12:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 1</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:30 - 13:30</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00 - 13:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Lunch</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:30 - 14:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 4</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:00 - 14:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 1</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00 - 14:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 5</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00 - 15:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 5, 6, 7</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30 - 15:20</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 2</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:30 - 16:15</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Demo & Networking</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:20 - 15:40</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:15 - 16:30</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:40 - 16:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 6</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:10 - 16:55</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:30 - 17:15</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussion</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:55 - 17:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Closing Remarks</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">17:15 - 18:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session 2</td>
 					</tr>
-				</tbody>
+					</tbody>
 			</table>
 		</div>
 		<div class="mt-4 text-sm text-gray-600 italic">
@@ -201,28 +189,10 @@
 					image="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wwW4HRQAAAAJ&citpid=5"
 				></Person>
 				<Person
-					name="Kuang-Huei Lee"
-					affiliation="Google DeepMind"
-					link="https://kuanghuei.github.io/"
-					image="./imgs/kuang.png"
-				></Person>
-				<Person
-					name="Zeyi Liu"
-					affiliation="Stanford University"
-					link="https://lzylucy.github.io/"
-					image="https://lzylucy.github.io/assets/images/profile.jpg"
-				></Person>
-				<Person
-					name="Ruoshi Liu"
-					affiliation="Amazon FAR"
-					link="https://ruoshiliu.github.io/"
-					image="https://ruoshiliu.github.io/resources/ruoshi-1-small.jpg"
-				></Person>
-				<Person
-					name="Wenhao Yu"
-					affiliation="Google DeepMind"
-					link="https://wenhaoyu.weebly.com/"
-					image="https://wenhaoyu.weebly.com/uploads/1/4/2/4/14248981/published/img-1723.jpg?1687933779"
+					name="Jing-Wen Chen"
+					affiliation="National Taiwan University"
+					link="https://joycelyn-chen.github.io/"
+					image="https://joycelyn-chen.github.io/media/Joy_head_pretty.jpg"
 				></Person>
 				<Person
 					name="Hiroki Furuta"
@@ -231,16 +201,34 @@
 					image="https://frt03.github.io/images/profile_2022.jpeg"
 				></Person>
 				<Person
-					name="Jing-Wen Chen"
-					affiliation="National Taiwan University"
-					link="https://joycelyn-chen.github.io/"
-					image="https://joycelyn-chen.github.io/media/Joy_head_pretty.jpg"
+					name="Kuang-Huei Lee"
+					affiliation="Google DeepMind"
+					link="https://kuanghuei.github.io/"
+					image="./imgs/kuang.png"
+				></Person>
+				<Person
+					name="Ruoshi Liu"
+					affiliation="Amazon FAR"
+					link="https://ruoshiliu.github.io/"
+					image="https://ruoshiliu.github.io/resources/ruoshi-1-small.jpg"
+				></Person>
+				<Person
+					name="Zeyi Liu"
+					affiliation="Stanford University"
+					link="https://lzylucy.github.io/"
+					image="https://lzylucy.github.io/assets/images/profile.jpg"
 				></Person>
 				<Person
 					name="Yifu Qiu"
 					affiliation="University of Edinburgh / University of Cambridge"
 					link="https://yfqiu.netlify.app/"
 					image="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=OA6GaMwAAAAJ&citpid=1"
+				></Person>
+				<Person
+					name="Wenhao Yu"
+					affiliation="Google DeepMind"
+					link="https://wenhaoyu.weebly.com/"
+					image="https://wenhaoyu.weebly.com/uploads/1/4/2/4/14248981/published/img-1723.jpg?1687933779"
 				></Person>
 			</div>
 		</div>
