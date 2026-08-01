@@ -18,7 +18,7 @@ Topics of interest include, but are not limited to:
 
 **Important Dates (Tentative):**
 
-* Submission Deadline: August 20, 2026, AoE
+* Submission Deadline: August 29, 2026, AoE
 * Author Notification: September 25, 2026, AoE
 * Camera Ready Deadline: November 30, 2026, AoE
 * Workshop Date: December 11 or 12, 2026 (TBD)
