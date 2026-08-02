@@ -1,4 +1,6 @@
-[<u>Open Review</u>](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Robotics_World_Modeling)
+* Full & Short Papers: <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Robotics_World_Modeling"><span style="color:blue">Open Review</span></a>
+* Demo and Networking Proposals: <a href="https://forms.gle/2HZpVuzFXXjXPQ1T9"><span style="color:blue">Google Form</span></a>
+
 
 We invite the submission of research papers, position papers, and demo proposals on the topic of world models for robot learning. This workshop focuses on the intersection of world models and robotics, exploring how predictive models of environment dynamics can advance Physical AI.
 
@@ -27,7 +29,8 @@ Accepted papers will be presented during poster sessions, with exceptional submi
 
 All accepted papers will be made publicly available as non-archival reports, allowing for future submissions to archival conferences or journals.
 
-Please submit your papers to the [<u>Open Review</u>](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Robotics_World_Modeling) site.
+Please submit your papers to the <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Robotics_World_Modeling"><span style="color:blue">Open Review</span></a> site.
+For demo and networking proposals, please submit 1 page PDF to the <a href="https://forms.gle/2HZpVuzFXXjXPQ1T9"><span style="color:blue">google form</span></a>.
 
 <h1 class="py-4 text-2xl font-bold" id="camera-ready">Camera Ready Instructions</h1>
 
