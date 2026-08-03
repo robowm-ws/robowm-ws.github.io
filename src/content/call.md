@@ -14,9 +14,16 @@ Topics of interest include, but are not limited to:
 
 **Submission Types:**
 
-* **Full Papers:** Up to 8 pages in NeurIPS or ICLR format, with potentially large-scale experiments.
-* **Short Papers:** 2-4 pages in NeurIPS or ICLR format, with proof-of-concept demonstrations (demos, code, blog posts).
-* **Proposals for demo and networking group:** 1 page in NeurIPS or ICLR format, with a light-weight and casual form. The accepted proposals will have a space at the Demo and Networking session.
+* **Proposals for demo and networking:** 1 page, with a light-weight and casual form, about anything that are related to robot learning with world models. We expect the proposal to have (1) What/How you would like to show or discuss -- it can be simple as introducing what your lab is brewing or just a topic that you'd like to discuss with other attendees; (2) Optionally, what you would like to demo. The accepted proposals will have a space at the Demo and Networking session. Please submit 1 page PDF <a href="https://forms.gle/2HZpVuzFXXjXPQ1T9"><span style="color:blue">here</span></a>.
+* **Full Papers:** Up to 8 pages in NeurIPS or ICLR format, with potentially large-scale experiments (submit through <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Robotics_World_Modeling"><span style="color:blue">OpenReview</span></a>).
+* **Short Papers:** 2-4 pages in NeurIPS or ICLR format, with proof-of-concept demonstrations (submit through <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Robotics_World_Modeling"><span style="color:blue">OpenReview</span></a>).
+
+Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations.
+
+All accepted papers will be made publicly available as non-archival reports, allowing for future submissions to archival conferences or journals.
+
+Please submit **full papers** and **short papers** to the  site.
+For demo and networking proposals, 
 
 **Important Dates (Tentative):**
 
@@ -24,13 +31,6 @@ Topics of interest include, but are not limited to:
 * Author Notification: September 25, 2026, AoE
 * Camera Ready Deadline: November 30, 2026, AoE
 * Workshop Date: December 11 or 12, 2026 (TBD)
-
-Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations.
-
-All accepted papers will be made publicly available as non-archival reports, allowing for future submissions to archival conferences or journals.
-
-Please submit your papers to the <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/Robotics_World_Modeling"><span style="color:blue">Open Review</span></a> site.
-For demo and networking proposals, please submit 1 page PDF to the <a href="https://forms.gle/2HZpVuzFXXjXPQ1T9"><span style="color:blue">google form</span></a>.
 
 <h1 class="py-4 text-2xl font-bold" id="camera-ready">Camera Ready Instructions</h1>
 
