@@ -25,7 +25,7 @@ All accepted papers will be made publicly available as non-archival reports, all
 Please submit **full papers** and **short papers** to the  site.
 For demo and networking proposals, 
 
-**Important Dates (Tentative):**
+**Important Dates:**
 
 * Submission Deadline: August 29, 2026, AoE
 * Author Notification: September 25, 2026, AoE

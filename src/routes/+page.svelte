@@ -169,7 +169,7 @@
 				></Person>
 				<Person
 					name="Franziska Meier"
-					affiliation="Meta"
+					affiliation="Waymo"
 					link="https://fmeier.github.io/"
 					image="https://fmeier.github.io/images/me-large.png"
 				></Person>
@@ -184,7 +184,7 @@
 			<div class="flex flex-wrap justify-center">
 				<Person
 					name="Homanga Bharadhwaj"
-					affiliation="Meta Reality Labs"
+					affiliation="Johns Hopkins University"
 					link="https://homangab.github.io/"
 					image="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wwW4HRQAAAAJ&citpid=5"
 				></Person>
