@@ -27,7 +27,7 @@ For demo and networking proposals,
 
 **Important Dates:**
 
-* Submission Deadline: August 29, 2026, AoE
+* Submission Deadline: ~~August 29, 2026, AoE~~ **September 2, 2026, AoE**
 * Author Notification: September 25, 2026, AoE
 * Camera Ready Deadline: November 30, 2026, AoE
 * Workshop Date: December 11 or 12, 2026 (TBD)
