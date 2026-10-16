@@ -143,12 +143,14 @@
 					link="https://www.jie-tan.net/"
 					image="https://www.jie-tan.net/img/MyPhoto.jpg"
 				></Person>
+				<!--
 				<Person
 					name="Roberto Calandra"
 					affiliation="TU Dresden"
 					link="https://lasr.org/people/roberto-calandra"
 					image="https://lasr.org/api/images/file/roberto_calandra.png"
 				></Person>
+				-->
 				<Person
 					name="Tsung-Yi Lin"
 					affiliation="NVIDIA Research"
@@ -161,12 +163,14 @@
 					link="https://hangzhaomit.github.io/"
 					image="https://hangzhaomit.github.io/images/profile3.jpg"
 				></Person>
+				<!--
 				<Person
 					name="Wei-Chiu Ma"
 					affiliation="Cornell University"
 					link="https://www.cs.cornell.edu/~weichiu/"
 					image="https://www.cs.cornell.edu/~weichiu/img/weichiu-mit-min.PNG"
 				></Person>
+				-->
 				<Person
 					name="Franziska Meier"
 					affiliation="Waymo"
