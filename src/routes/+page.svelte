@@ -23,7 +23,7 @@
 				</div>
 			</div>
 			<div class="inline-block text-4xl">Robot Learning with World Models: Capabilities, Frontiers, and Challenges</div>
-			<div class="text-md mt-8 text-gray-800">December 11th or 12th, 2026</div>
+			<div class="text-md mt-8 text-gray-800">December 11th, 2026</div>
 			<div class="text-sm text-gray-500">Sydney, Australia</div>
 		</div>
 	</div>

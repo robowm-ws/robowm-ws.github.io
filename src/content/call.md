@@ -2,7 +2,7 @@
 * Demo and Networking Proposals: <a href="https://forms.gle/2HZpVuzFXXjXPQ1T9"><span style="color:blue">Google Form</span></a>
 
 
-We invite the submission of research papers, position papers, and demo proposals on the topic of world models for robot learning. This workshop focuses on the intersection of world models and robotics, exploring how predictive models of environment dynamics can advance Physical AI.
+We invite submissions of research papers, position papers, and demo proposals on the topic of world models for robot learning. This workshop focuses on the intersection of world models and robotics, exploring how predictive models of environment dynamics can advance Physical AI.
 
 Topics of interest include, but are not limited to:
 
@@ -22,7 +22,7 @@ Accepted papers will be presented during poster sessions, with exceptional submi
 
 All accepted papers will be made publicly available as non-archival reports, allowing for future submissions to archival conferences or journals.
 
-Please submit **full papers** and **short papers** to the  site.
+Please submit **full papers** and **short papers** to the site.
 For demo and networking proposals, 
 
 **Important Dates:**
@@ -30,7 +30,7 @@ For demo and networking proposals,
 * Submission Deadline: ~~August 29, 2026, AoE~~ **September 2, 2026, AoE**
 * Author Notification: September 29, 2026, AoE
 * Camera Ready Deadline: November 30, 2026, AoE
-* Workshop Date: December 11 or 12, 2026 (TBD)
+* Workshop Date: **December 11, 2026 (Confirmed)**
 
 <h1 class="py-4 text-2xl font-bold" id="camera-ready">Camera Ready Instructions</h1>
 
