@@ -196,7 +196,7 @@
 					name="Jing-Wen Chen"
 					affiliation="National Taiwan University"
 					link="https://joycelyn-chen.github.io/"
-					image="https://joycelyn-chen.github.io/media/Joy_head_pretty.jpg"
+					image="https://joycelyn-chen.github.io/media/profile.jpg"
 				></Person>
 				<Person
 					name="Hiroki Furuta"
