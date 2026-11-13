@@ -177,6 +177,12 @@
 					link="https://fmeier.github.io/"
 					image="https://fmeier.github.io/images/me-large.png"
 				></Person>
+				<Person
+					name="Paul Liang"
+					affiliation="MIT"
+					link="https://pliang279.github.io/"
+					image="https://pliang279.github.io/images/paul-liang-headshot-small.jpg"
+				></Person>
 			</div>
 		</div>
 	</Block>
