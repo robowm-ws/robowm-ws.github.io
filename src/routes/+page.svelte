@@ -171,17 +171,25 @@
 					image="https://www.cs.cornell.edu/~weichiu/img/weichiu-mit-min.PNG"
 				></Person>
 				-->
+				<!--
 				<Person
 					name="Franziska Meier"
 					affiliation="Waymo"
 					link="https://fmeier.github.io/"
 					image="https://fmeier.github.io/images/me-large.png"
 				></Person>
+				-->
 				<Person
 					name="Paul Liang"
 					affiliation="MIT"
 					link="https://pliang279.github.io/"
 					image="https://pliang279.github.io/images/paul-liang-headshot-small.jpg"
+				></Person>
+				<Person
+					name="Max Jiang"
+					affiliation="Waymo"
+					link="https://maxjiang.ml/"
+					image="https://maxjiang.ml/assets/img/max_profile_pic_sq.JPG"
 				></Person>
 			</div>
 		</div>

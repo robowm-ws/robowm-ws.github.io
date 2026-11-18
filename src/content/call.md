@@ -29,7 +29,7 @@ For demo and networking proposals,
 
 * Submission Deadline: ~~August 29, 2026, AoE~~ **September 2, 2026, AoE**
 * Author Notification: September 29, 2026, AoE
-* Camera Ready Deadline: November 30, 2026, AoE
+* Camera Ready Deadline: ~~November 30, 2026, AoE~~ December 18, 2026, AoE
 * Workshop Date: **December 11, 2026 (Confirmed)**
 
 <h1 class="py-4 text-2xl font-bold" id="camera-ready">Camera Ready Instructions</h1>
